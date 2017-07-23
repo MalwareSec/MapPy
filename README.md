@@ -23,3 +23,4 @@ To run this program:
 
 Output:
 	
+<img width="922" alt="screen shot 2017-07-23 at 9 36 11 am" src="https://user-images.githubusercontent.com/16884900/28499828-d6d00974-6f8c-11e7-880e-eb752fcd2a8f.png">
